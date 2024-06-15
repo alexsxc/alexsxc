@@ -10,7 +10,7 @@ const alexsxc = {
   age: 15,
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Postman, Docker],
+  tools: [React, Redux, Node, Express, Styled-Components, Postman, Docker, FLask],
   architecture: ["microservices", "event-driven"],
   techCommunities: {
                         speaker: "Russian, English",
