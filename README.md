@@ -9,14 +9,14 @@ const alexsxc = {
   name: "Alexander",
   age: 15,
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS, Python, Golang],
   tools: [React, Redux, Node, Express, Styled-Components, Postman, Docker, FLask],
   architecture: ["microservices", "event-driven"],
   techCommunities: {
                         speaker: "Russian, English",
                         mentor: "Aroken.ru community"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Golang"
 }
 ```
 
